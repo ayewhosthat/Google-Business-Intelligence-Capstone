@@ -13,4 +13,5 @@ After the dataset was loaded into Tableau, a mockup (or sketch) of what each das
 To satisfy the product development team's wants, I created three dashboards, each consisting of two charts:
 - Dashboard 1: A map showing the average of trip minutes + a table showing trip statistics for each neighbourhood start-end combination for the summer months, split by user type (customer vs subscriber). The dashboard also includes filters for various metrics (precipitation, temperature, windspeed, trip count), which changes the color of the map accordingly. Each neighbourhood is shaded according to how large the metric value is; darker means larger. Additionally, there are filters for neighbourhood, user type, bike ID, and month to filter the information displayed in the table.
 <br>
-![summer trends](summer_trends.png)
+<br>
+![summer trends]("summer_trends.png")
