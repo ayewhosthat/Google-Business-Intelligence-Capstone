@@ -1,4 +1,6 @@
 ## Welcome to my Google Business Intelligence Capstone Project!
+### _Note: Please click on each of the respective steps (subdirectories) listed above to see a more in depth explanation of that stage of the project_
+
 This was a cool way to dip my feet into the world of business intelligence and get a glimpse into what business intelligence professionals do. Coming from a predominantly analytics background, I was curious about the difference between the two fields, and this certificate was a great eye-opening experience to help me understand said difference. 
 
 <br>
