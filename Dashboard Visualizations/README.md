@@ -26,7 +26,7 @@ For example, we see from the above visualization that Manhattan deals with a lot
 
 - Dashboard 3: Year over Year and Seasonal/Monthly Trends: An area chart showing bike trip count from the beginning of 2019 to the end of 2020 on a monthly basis, along with a table detailing how these trips were distributed by location of origin throughout New York City's neighbourhoods.
 
-![seasonality](seasonality.png)
+![seasonality](Seasonality.png)
 <br>
 Here we observe that winter months see a hit in bike rides, and understandably so, since weather conditions mean that not only is it cold, but bikers are put at increased safety risk due to roads being slippery, and visibility being poor at times. The table corroborates the above observation that Lower East Side and Chelsea and Clinton are large bike "hubs" that see a tremendous amount of traffic compared to the rest of the neighbourhoods.
 
